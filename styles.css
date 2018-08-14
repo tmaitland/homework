@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.holdTheForm {
+   /* padding: 15px; */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+.format {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#displayPlayers{
+    margin: 5px;
+}
+
+#displaySkills{
+    margin: 5px;
+}
+
+#showPhone{
+    margin: 5px; 
+}
+
+#displayButtons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
